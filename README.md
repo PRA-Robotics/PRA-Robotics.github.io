@@ -1,7 +1,9 @@
-# Page Menu
-* [PRA Robotics Home page](/readme)
-* [Media page](/Media)
-* [Calendar page](/Calendar)
+# Pages
+* [PRA Robotics Home page](/)
+* [Media page](/media)
+* [Calendar page](/calendar)
+* [Team Communications](/communications)
+* [New Member Onboarding Process](/onboarding)
 
 ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/PRA-Robotics/PRA-Robotics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
