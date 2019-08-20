@@ -10,4 +10,4 @@ From the announcement" The Colorado Kick-Off for FIRST Tech Challenge in Colorad
 
 We will show the Kick-Off video from FIRST, hold workshops, have a field for you to look at, provide an opportunity to network with other teams, and hold giveaways of game elements and robot parts/tools.
 
-We will posting a detailed schedule and additional information soon at [Colorado FTC website](http://coloradofirst.org/COFIRST/programs/ftc/)"
+We will posting a detailed schedule and additional information soon at [Colorado FTC website](http://coloradofirst.org/COFIRST/programs/ftc/)
