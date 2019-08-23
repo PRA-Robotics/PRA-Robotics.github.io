@@ -30,7 +30,7 @@ Atom is available for free and executes on PC/Windows, Mac and Linux environment
 ## Java programing language
 We use [Java coding language](https://www.oracle.com/technetwork/java/index.html) to control the robots. The Java code must be built on FTC robot phones. There is an OnBot Java environment used to build and execute the Java code for FTC Robots.
 
-## Google Blocks coding language
+## (Google Blockly) FTC Blocks coding language
 We can use (Google Blockly) [Blocks coding language](https://developers.google.com/blockly/) to control the robots. The Blocks language we use has been heavily modified to support FTC robot API. It's only available on in an FTC program environment running on a FTC App phone.
 
 There is an OnBot Blocks coding environment that is used to build and execute Blocks code
