@@ -1,8 +1,8 @@
 # Season Calendar
 
-## 2019 August 29, Thursday, 3:15pm-5:00pm, PRA Robotics Milk & Cookies, Mr. Caswell's CS room, upstairs near library
+## 2019 September 3, Teusday, 3:30pm-4:30pm, PRA Robotics Cookies Social, in Library
 
-We will be holding a recruitment event with free food for anyone that is interested in PRA Robotics.
+We will be holding a recruitment event with free milk and cookies for anyone that is interested in PRA Robotics.
 
 ## 2019 September 7, Saturday 8:30am-2:00pm, FTC kickoff @Denver Museum of Nature and Science.
 
