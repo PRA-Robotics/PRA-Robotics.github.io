@@ -14,7 +14,7 @@ We generally meet every Tuesday and Thursday after school, during the school cal
 
 PRA Robotics meetings are held in Mr. Caswell's computer science classroom on the 2nd floor, near the library at PRA.
 
-We hold recruitment activities after school starts for the year. But Robotic team meetings are open and anyone can join the team at anytime during the school year. We encourage any student with an interest in math, sciences, computer sciences or other technologies to come and join the team.
+We hold recruitment activities after school at the start of the school year. But Robotic team meetings are open and anyone can join the team at anytime during the school year. We encourage any student with an interest in math, sciences, computer sciences or other technologies to come and join the team.
 
 # History
 A PRA FTC team has gone to the state competition in 2018 and 2019 and in 2018 we came in 2nd in the state.
