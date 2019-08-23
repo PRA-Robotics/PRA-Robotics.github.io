@@ -4,7 +4,7 @@
 * [Calendar page](/Calendar)
 * [Team Communications](/communications)
 * [New Member Onboarding Process](/onboarding)
-* [How to edit webpages](/how_to_edit_webpages)
+* [How to edit website](/how_to_edit_website)
 
 # Prospect Ridge Academy (PRA) Robotics
 PRA is a STEM school in Broomfield Colorado.  The PRA Robotics team has been active for over 5 years in FTC and other robotics contests in the Denver and Colorado areas. Each school year we recruit new members and old (veteran) members return to tackle the [First Tech Challenge (FTC)](https://www.firstinspires.org/robotics/ftc) latest game.
