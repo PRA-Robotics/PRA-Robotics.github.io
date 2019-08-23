@@ -1,3 +1,6 @@
+# Pages
+* [PRA Robotics Home page](/)
+
 # PRA Robotics Media page
 
 ## Team YouTube Channel
