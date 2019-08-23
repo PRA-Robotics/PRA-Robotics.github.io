@@ -4,6 +4,7 @@
 * [Team Calendar](/Calendar)
 * [Team Communications](/communications)
 * [New Member Onboarding Process](/onboarding)
+* [Software Tools used by the team](/software_tools)
 * [How to edit website](/how_to_edit_website)
 
 # Prospect Ridge Academy (PRA) Robotics
