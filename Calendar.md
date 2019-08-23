@@ -1,6 +1,9 @@
+# Pages
+[PRA Robotics home page](/)
+
 # Season Calendar
 
-## 2019 September 3, Teusday, 3:30pm-4:30pm, PRA Robotics Cookies Social, in Library
+## 2019 September 3, Tuesday, 3:30pm-4:30pm, PRA Robotics Cookies Social, in Library
 
 We will be holding a recruitment event with free milk and cookies for anyone that is interested in PRA Robotics.
 
