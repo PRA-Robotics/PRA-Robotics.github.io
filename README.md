@@ -1,7 +1,7 @@
 # Pages
 * [PRA Robotics Home page](/)
-* [Media page](/Media)
-* [Calendar page](/Calendar)
+* [PRA Robotics Media](/Media)
+* [Team Calendar](/Calendar)
 * [Team Communications](/communications)
 * [New Member Onboarding Process](/onboarding)
 * [How to edit website](/how_to_edit_website)
