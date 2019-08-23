@@ -8,10 +8,12 @@ We use the [Slack appplication](https://slack.com/) for real time, team and coac
 
 The application is available for free and executes on the web, or for IOS and Android phones.
 
+At last count we have 9 Slack channels. Contact the coaches or another team member to get an invite to any or all of them. 
+
 ## Autodesk Fusion 360 CAD
 We use the [Fusion 360 application](https://www.autodesk.com/products/fusion-360/overview#) for computer aided (3D) design (CAD) which we then print with team 3D printers. 
 
-The application is available for free and executes on the web, for Windows and Mac systems. 
+The application is executes on the web, for Windows and Mac systems. 
 
 Fusion 360 is available for free for educational use.
 
@@ -20,7 +22,7 @@ We use [GitHub application](https://github.com/) for source code control and to 
 
 We also use GitHup to create our website.
 
-The GitHub application is available for free and executes on the web, in a desktop version for PC/Windows and Mac and in conrol line input for every operating system. 
+The GitHub application is available for free and executes on the web, in a desktop version for PC/Windows and Mac and in conrol line input mode for just about every operating system known to mankind. 
 
 ## Atom IDE
 We use the [Atom Integrated Development Environment (IDE)](https://atom.io/) application to develop Java code for our robots 
@@ -44,4 +46,5 @@ Google Docs and Google Sheets are free and operate mostly on the web but there a
 
 Contact us for an invitation to access the teams Google drive.
 
-
+# ftc_http OnBot build and file management tool
+[ftc_http](https://ftcforum.usfirst.org/forum/ftc-technology/60134-ftc_http-a-utility-for-syncing-files-between-computer-and-onbot-java) is a PRA Robotics developed tool that is used to do upload, download and clear files from FTC robot phones and also provides a mechanism to do java builds on FTC robot phones. 
