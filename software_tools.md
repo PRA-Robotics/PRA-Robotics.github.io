@@ -49,4 +49,4 @@ Contact us for an invitation to access the teams Google drive.
 # ftc_http OnBot build and file management tool
 [ftc_http](https://ftcforum.usfirst.org/forum/ftc-technology/60134-ftc_http-a-utility-for-syncing-files-between-computer-and-onbot-java) is a PRA Robotics developed tool that is used to do upload, download and clear files from FTC robot phones. The ftc_http application also provides a mechanism to do java builds on FTC robot phones. 
 
-The ftc_http operates on Mac (terminal), Windows (command line) and Linux and can be found [here](https://github.com/TheLostLambda/ftc_http) an GitHub repository.
+The ftc_http operates on Mac (terminal), Windows (command line) and Linux and can be found [here](https://github.com/TheLostLambda/ftc_http) a former PRA Robotics team member's GitHub repository.
