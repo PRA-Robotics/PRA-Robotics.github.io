@@ -1,5 +1,5 @@
 # Pages
-[PRA Robotics home page](/)
+* [PRA Robotics home page](/)
 
 # Season Calendar
 
