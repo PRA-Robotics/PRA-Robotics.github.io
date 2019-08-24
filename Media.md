@@ -5,7 +5,7 @@
 
 ## Team YouTube Channel
 
-We have produced a couple of videos made availableounour you tube channel. 
+Team members have produced a couple of videos made available on our YouTube channel. 
 
 Please find the [PRA HS Robotics YouTube Channel here](https://m.youtube.com/channel/UC_jlH1wNbo-G6jMrMm3ow2g?itct=CBkQ6p4EIhMIk7XvwIKL5AIVB6mCCh1Nbwlv&csn=c4hYXb6AO4OxiwTa6ZWoDQ&wlfg=true)
 
