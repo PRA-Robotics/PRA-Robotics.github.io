@@ -13,6 +13,6 @@ From the announcement" The Colorado Kick-Off for FIRST Tech Challenge in Colorad
 
 We will show the Kick-Off video from FIRST about the new game, hold workshops, have a field for you to look at, provide an opportunity to network with other teams, and hold giveaways of game elements and robot parts/tools.
 
-We will posting a detailed schedule and additional information soon at [Colorado FTC website](http://coloradofirst.org/COFIRST/programs/ftc/)."
+Event details can be found on the [CO First site](http://coloradofirst.org/COFIRST/ftc-kick-off).
 
-There will be a number of PRA Robotics team members and coaches attending the kickoff event, so if you need a ride, please let us know.
+There will be a number of PRA Robotics team members and coaches attending the kickoff event, so if you need a ride, or have other questions, please reach out [on Slack](https://terrabites.slack.com/).
