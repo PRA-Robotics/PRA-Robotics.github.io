@@ -10,3 +10,4 @@ Please see: https://coloradofirst.org/COFIRST/wp-content/uploads/2019/09/Windsor
 Details TBD
 
 ## 2020 January 18, Saturday, 8:00am-2:00pm, Broomfield Qualifier, Prospect Ridge High School
+Details TBD
