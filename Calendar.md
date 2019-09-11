@@ -1,18 +1,12 @@
 # Pages
 * [PRA Robotics home page](/)
 
-# Season Calendar
+# Upcoming Events
 
-## 2019 September 3, Tuesday, 3:30pm-4:30pm, PRA Robotics Cookies Social, in Library
+## 2019 November 12, Teusday, 4:30pm-7:30pm, FTC Unofficial Scimmage, Windsor High School, 
+Please see: https://coloradofirst.org/COFIRST/wp-content/uploads/2019/09/Windsor-Scrimmage-invitation.pdf
 
-We will be holding a recruitment event with free milk and cookies for anyone that is interested in PRA Robotics.
+## 2020 January 11, Saturday, 8:00am-2:00pm, North Denver Qualifier, Mountain Ridge High School  
+Details TBD
 
-## 2019 September 7, Saturday, 8:30am-2:00pm, FTC kickoff @Denver Museum of Nature and Science.
-
-From the announcement" The Colorado Kick-Off for FIRST Tech Challenge in Colorado has been set for Saturday, September 7, 2019 from 8:30AM to 2:00PM at the Denver Museum of Nature and Science.
-
-We will show the Kick-Off video from FIRST about the new game, hold workshops, have a field for you to look at, provide an opportunity to network with other teams, and hold giveaways of game elements and robot parts/tools.
-
-Event details can be found on the [CO First site](http://coloradofirst.org/COFIRST/ftc-kick-off).
-
-There will be a number of PRA Robotics team members and coaches attending the kickoff event, so if you need a ride, or have other questions, please reach out [on Slack](https://terrabites.slack.com/).
+## 2020 January 18, Saturday, 8:00am-2:00pm, Broomfield Qualifier, Prospect Ridge High School
