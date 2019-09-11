@@ -10,6 +10,11 @@ Incoming team members should complete the following steps to get up to speed.
 * Read and fill out the student [Safety Agreement Form](https://docs.google.com/document/d/1DEZTf5IYDHbeY0EzAF4iQCYHgVSQjJzW6hGhu74798E/edit?usp=sharing) *review/sign with your parent/guardian*
 * Start attending PRA Robotics team meetings.  Ask lots of questions and start getting 'hands-on' with some hardware or software.
 
+Team meetings are held 
+* After school on Tuesdays & Thursdays until 5pm, in Mr. Caswell's room, next to the library upstairs
+* Saturdays from 9:30-Noon in Mr. Caswell's room
+
+
 ## Next Priority
 * Watch last [year's reveal video](https://youtu.be/rR4gR4l2XA8?t=128) to get a sense of how the FTC games work 
 * Skim through the [Game Manual](https://www.firstinspires.org/resource-library/ftc/game-and-season-info) to get an idea of the competition rules and the judging criteria (pay special attention to the Engineering Notebook section).
