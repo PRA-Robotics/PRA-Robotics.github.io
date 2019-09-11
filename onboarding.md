@@ -21,9 +21,9 @@ Team meetings are held
 * Read through the [Blocks Tutorial](https://github.com/FIRST-Tech-Challenge/SKYSTONE/wiki/Blocks-Tutorial) to get an idea for how the robots get programmed to do what they do on the field.  For a deeper dive, move on to the [Java Tutorial](https://github.com/FIRST-Tech-Challenge/SKYSTONE/wiki/OnBot-Java-Tutorial) next.
 
 ## More Stuff
-* Create a GitHub account
+* Create a GitHub account and connect to [our GitHub source code repositories](https://desktop.github.com), although this isn't necessary as one can use the command line tool to upload/download and commit code. There's also [GitHub YouTube tutorials](https://www.youtube.com/githubguides) that you can watch.
 * Register for an [educational Fusion 360 account](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 Once you're setup and have Fusion 360 installed, follow along [this CAD Tutorial](https://youtu.be/A5bc9c3S12g) to learn how
 to start modeling parts that can later be 3D printed and installed on the robot!
-* Download Atom IDE
+* Download [Atom IDE](https://ide.atom.io) and you can watch [LevelUp Tutorial on Atom](https://www.youtube.com/watch?v=EyG20hhON6E)
 
