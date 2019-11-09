@@ -12,7 +12,7 @@ Incoming team members should complete the following steps to get up to speed.
 
 Team meetings are held 
 * After school on Tuesdays & Thursdays until 5pm, in Mr. Caswell's room, next to the library upstairs
-* Saturdays from 9:30-Noon in Mr. Caswell's room
+* Saturdays from 9:30-12:30 in Mr. Caswell's room
 
 
 ## Next Priority
