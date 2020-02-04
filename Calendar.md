@@ -12,3 +12,6 @@ Details TBD
 
 ## 2020 January 18, Saturday, 8:00am-2:00pm, Broomfield Qualifier, Prospect Ridge High School
 Details TBD
+
+## 2020 February 8, Saturday, State Championships, Mountain Range High School
+
